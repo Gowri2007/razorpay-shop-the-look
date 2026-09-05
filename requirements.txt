@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-openai
+google-genai
 razorpay
 python-multipart
 python-dotenv
